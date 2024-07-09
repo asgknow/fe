@@ -8,7 +8,7 @@
 
 - [Catecismo de la Iglesia Católica.](https://www.vatican.va/archive/ccc/index_sp.htm)
 
-## Devoción
+### Devoción
 
 - [Solemnidad del Sacratísimo Corazón de Jesús.](https://www.ewtn.com/es/catolicismo/fiestas-liturgicas/sagrado-corazon-de-jesus-21154)
 
