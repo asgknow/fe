@@ -62,7 +62,7 @@ Ayúdame a prepararme a morir con temor al juicio final,</br>
 pero con gran confianza en tu bondad.
 
 Llévame seguro a través de la muerte al gozo eterno del cielo.</br>
-Te lo pedimos por nuestro Señor Jesucristo,
+Te lo pedimos por nuestro Señor Jesucristo.
 
 Amén.
 
