@@ -1,4 +1,17 @@
-# Oraciones
+# Fe católica
+
+Esta página contiene referencias a documentos que ayudan practicar y aumentar la fe católica.
+
+Está dividido en tres partes:
+
+- **Catequesis**: contiene vínculos a la Biblia Católica y al Catecismo de la Iglesia Católica. Ambas se pueden consultar en línea.
+
+- **Devoción**: tiene vínculos a devociones comúnes de los católicos.
+
+- **Oraciones**: presenta algunas de las oraciones más conocidas por los practicantes de la religión católica.
+
+El objetivo es contar con un recurso de consulta que facilite concentrar información relevante para la práctica de la fe católica.  
+
 
 # Índice
 
@@ -25,7 +38,6 @@
 - [Bendición a la mesa.](./bendicion_a_la_mesa.md)
 
 ## Referencias
-
 - [Catholic Diocese of Peoria: Hispanic Prayers](https://cdop.org/hispanic-prayers/)
 - [Devocionario Católico](https://www.devocionario.com/index.html)
 - [EWTN: Devociones](https://www.ewtn.com/es/catolicismo/devociones)
