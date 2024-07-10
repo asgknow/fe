@@ -36,6 +36,7 @@ El objetivo es contar con un recurso de consulta que facilite concentrar informa
 - [Gloria al Padre.](./oraciones/gloria_al_padre.md)
 - [Oración Universal.](./oraciones/oracion_universal.md) (*Atribuida al [Papa Clemente XI](https://ec.aciprensa.com/wiki/Papa_Clemente_XI)*)
 - [Bendición a la mesa.](./oraciones/bendicion_a_la_mesa.md)
+- [Ven Espíritu Santo.](./oraciones/ven_espiritu_santo.md)
 
 ## Referencias
 - [Catholic Diocese of Peoria: Hispanic Prayers](https://cdop.org/hispanic-prayers/)
