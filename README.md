@@ -31,11 +31,11 @@ El objetivo es contar con un recurso de consulta que facilite concentrar informa
 - Radio María: [Cómo rezar el Santo Rosario](https://www.elsantorosario.es/como-rezar-el-rosario/)
 
 ## Oraciones
-- [Padre Nuestro.](./padre_nuestro.md)
-- [Ave María.](./ave_maria.md)
-- [Gloria al Padre.](./gloria_al_padre.md)
-- [Oración Universal.](./oracion_universal.md) (*Atribuida al [Papa Clemente XI](https://ec.aciprensa.com/wiki/Papa_Clemente_XI)*)
-- [Bendición a la mesa.](./bendicion_a_la_mesa.md)
+- [Padre Nuestro.](./oraciones/padre_nuestro.md)
+- [Ave María.](./oraciones/ave_maria.md)
+- [Gloria al Padre.](./oraciones/gloria_al_padre.md)
+- [Oración Universal.](./oraciones/oracion_universal.md) (*Atribuida al [Papa Clemente XI](https://ec.aciprensa.com/wiki/Papa_Clemente_XI)*)
+- [Bendición a la mesa.](./oraciones/bendicion_a_la_mesa.md)
 
 ## Referencias
 - [Catholic Diocese of Peoria: Hispanic Prayers](https://cdop.org/hispanic-prayers/)

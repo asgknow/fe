@@ -21,4 +21,4 @@ y líbranos del mal.
 
 ---
 
-[:arrow_backward: Volver](./README.md)
+[:arrow_backward: Volver](../README.md)

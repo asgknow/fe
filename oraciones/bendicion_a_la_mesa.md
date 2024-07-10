@@ -12,4 +12,4 @@ Tu que vives y reinas por los siglos de los siglos, Amén.
 
 ---
 
-[:arrow_backward: Volver](./README.md)
+[:arrow_backward: Volver](../README.md)
