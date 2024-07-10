@@ -1,4 +1,4 @@
-# Fe católica
+# Fe Católica
 
 Esta página contiene referencias a documentos que ayudan practicar y aumentar la fe católica.
 
