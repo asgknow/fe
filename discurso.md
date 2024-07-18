@@ -61,4 +61,6 @@ Hoy en día, nuestra sociedad está muy lastimada, el pensamiento crítico ha si
 
 Por tanto, mi encomienda para ustedes graduandos es la siguiente: "SALGAN Y TENGAN ÉXITO"
 
-¡Muchas gracias!
+Por su atenciónn gracias
+
+¡Felicidades!
